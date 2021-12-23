@@ -1,6 +1,6 @@
 # Beijing_Air_Quality
 
-[Portfolio link](https://jeffreyngds.com/beijing-air-quality/)
+The link to the project can be found here [Portfolio link](https://jeffreyngds.com/beijing-air-quality/)
 
 ### Because of China's industrial development which required large amounts of fossil fuel burning, the air quality of Beijing has suffered drastically. More research into the health of residents will be done to further demonstrate this well known urban problem for the city.
 
